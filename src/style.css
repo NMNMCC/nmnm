@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+* {
+    font-family: "Roboto Mono", "Noto Sans SC", monospace;
+    @apply box-border;
+}
