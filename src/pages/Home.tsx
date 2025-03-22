@@ -20,6 +20,7 @@ export const Home = () => {
                         >
                             <div class="absolute flex items-center justify-center w-full h-full aspect-square top-0 left-0 pt-[10%]">
                                 <img
+                                    alt="Avatar"
                                     src="https://github.com/NMNMCC.png"
                                     class="rounded-full object-cover transform-gpu transition-all hover:scale-150"
                                 ></img>
